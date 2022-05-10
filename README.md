@@ -1,3 +1,3 @@
 # profile-finder
 
-![My Image](image.jpg)
+![Image](image.jpg)
